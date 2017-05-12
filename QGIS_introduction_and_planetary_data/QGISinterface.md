@@ -1,5 +1,5 @@
 ## The QGIS Interface 
-![QGIS interface](/images/qgisinterface.jpg)
+![QGIS interface](/QGIS_introduction_and_planetary_data/images/qgisinterface.jpg)
 
 * First, if you are more comfortable, feel free to change the interface language:
   * Settings (or extra) --> options --> Locale --> (click to override) then chose language --> restart the program to apply the new settings
