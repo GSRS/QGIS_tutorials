@@ -30,4 +30,4 @@ Load the converted Tiff into Qgis. Note we are using degrees for the file. In ad
 ```
 > gdal_translate -a_srs "http://spatialreference.org/ref/iau2000/49900/" -a_ullr -180 90 180 -90 mola_roughness.png mola_roughness.tif
 ```
-![Ungeoreferenced rasters](/images/noproj.jpg)
+![Ungeoreferenced rasters](/QGIS_introduction_and_planetary_data/images/noproj.jpg)

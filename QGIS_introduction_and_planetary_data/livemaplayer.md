@@ -3,12 +3,12 @@ The WMS standard still has some planetary issues (meaning the standard was writt
 1. First Copy this WMS get capabilities link: https://planetarymaps.usgs.gov/cgi-bin/mapserv?map=/maps/mars/mars_simp_cyl.map&service=WMS&request=GetCapabilities
 You can copy different URL from this page (get capabilities link).
 2. Now click on the add WMS button . In the next dialog, click “new”.
-![wms](/images/wms1.jpg)
+![wms](/QGIS_introduction_and_planetary_data/images/wms1.jpg)
 3. This will show this next dialog. Type a name and paste in the URL. Hit “OK”.
-![wms](/images/wms2.jpg)
+![wms](/QGIS_introduction_and_planetary_data/images/wms2.jpg)
 4. Now select “Connect” and select a single layer (e.g. MOLA_bw) and click Add (only once) and then Close.
-![wms](/images/wms3.jpg)
-![wms](/images/wms4.jpg)
+![wms](/QGIS_introduction_and_planetary_data/images/wms3.jpg)
+![wms](/QGIS_introduction_and_planetary_data/images/wms4.jpg)
 
 ### WMS Discussion:
 WMS support will need further testing but when a WMS fails you may need to default back to EPSG:4326 (WGS 84) or even start a new QGIS and load it first.
