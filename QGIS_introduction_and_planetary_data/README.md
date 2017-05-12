@@ -1,5 +1,5 @@
 # Introduction to QGIS and planetary data
-QGIS version 2.16.3 (quick notes by Trent Hare, thare@usgs.gov, May 2017)
+QGIS version 2.16.3 (training notes by Trent Hare, thare@usgs.gov, May 2017)
 ## Table of Contents
 1. [QGIS Resources](resources.md)
 2. [The QGIS Interface](QGISinterface.md)
